@@ -1,4 +1,4 @@
-# Utilizing Machine Learning and Image Processing to automate brain tumor detection process  
+# Utilizing Machine Learning and Image Processing to automate brain tumor detection process 
 
 Tumor is an uncontrolled growth of tissues in any part of the body. Tumors are of different types and hence they have different treatments. Detection of tumor in the earlier stages makes the treatment possible.
 
