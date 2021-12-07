@@ -1,13 +1,13 @@
 # Utilizing Machine Learning and Image Processing to automate brain tumor detection process 
 
-Tumor is an uncontrolled growth of tissues in any part of the body. Tumors are of different types and hence they have different treatments. Detection of tumor in the earlier stages makes the treatment possible.
+Tumor is an uncontrolled growth of tissues in any part of the body. Tumors are of different types and hence they have different treatments. Detection of tumor in the earlier stages makes the treatment possible. 
 
 In this project, we aim to build a CNN architecture which gives higher accuracy compared to the existing and standard models.
-ML project on Brain Tumor Detection. (custom model) Train Accuracy: 82.2% Test Accuracy: 77.46%
+ML project on Brain Tumor Detection. (custom model) Train Accuracy: 82.2% Test Accuracy: 77.46% 
 
 
 
-# The Main objectives of this project are
+# The Main objectives of this project are 
 
 • Build a model which gives higher accuracy than the standard models
 • Compare the accuracies with the standard models
