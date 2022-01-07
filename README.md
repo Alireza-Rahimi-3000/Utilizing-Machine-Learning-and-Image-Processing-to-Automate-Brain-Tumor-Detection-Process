@@ -12,9 +12,9 @@ ML project on Brain Tumor Detection. (custom model) Train Accuracy: 82.2% Test A
 • Build a model which gives higher accuracy than the standard models 
 • Compare the accuracies with the standard models
 • Use the various CNN layers and experiment with it in order to increase the accuracy
-• Build a model which is different from the standard model   
+• Build a model which is different from the standard model      
 • Use two different datasets, having different number of images in order to compare which dataset gives higher accuracy   
-• For the given image, predict the class
+• For the given image, predict the class    
 
 # Datasets  
 
