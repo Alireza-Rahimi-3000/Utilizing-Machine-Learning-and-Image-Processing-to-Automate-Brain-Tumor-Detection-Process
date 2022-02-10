@@ -7,7 +7,7 @@ ML project on Brain Tumor Detection. (custom model) Train Accuracy: 82.2% Test A
 
 
 
-# The Main objectives of this project are             
+# The Main objectives of this project are               
 
 • Build a model which gives higher accuracy than the standard models 
 • Compare the accuracies with the standard models
