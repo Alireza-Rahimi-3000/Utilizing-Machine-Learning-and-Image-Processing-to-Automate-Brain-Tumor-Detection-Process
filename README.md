@@ -18,7 +18,7 @@ ML project on Brain Tumor Detection. (custom model) Train Accuracy: 82.2% Test A
 
 # Datasets  
 
-Downloaded from Kaggle    
+Downloaded from Kaggle      
 Small Dataset - 253 total images with 155 positive and 98 negative
 After Augmentation 2064 total images with 1085 positive and 979 negative
 Large Dataset - 326 total images with 176 positive and 150 negative
