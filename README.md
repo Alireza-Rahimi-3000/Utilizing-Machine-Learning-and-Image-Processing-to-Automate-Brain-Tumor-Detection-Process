@@ -6,7 +6,7 @@ In this project, we aim to build a CNN architecture which gives higher accuracy 
 ML project on Brain Tumor Detection. (custom model) Train Accuracy: 82.2% Test Accuracy: 77.46%   
   
 
- 
+  
 # The Main objectives of this project are                   
     
 • Build a model which gives higher accuracy than the standard models   
