@@ -5,7 +5,7 @@ Tumor is an uncontrolled growth of tissues in any part of the body. Tumors are o
 In this project, we aim to build a CNN architecture which gives higher accuracy compared to the existing and standard models. 
 ML project on Brain Tumor Detection. (custom model) Train Accuracy: 82.2% Test Accuracy: 77.46%   
   
-  
+   
   
 # The Main objectives of this project are                    
     
