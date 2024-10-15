@@ -52,10 +52,12 @@ The model’s robustness was tested using new MRI data from external sources, en
 ***Project Outcomes:***
 This project successfully developed a machine learning-based system for automated brain tumor detection, significantly enhancing the speed and accuracy of MRI image analysis. The expanded datasets, after augmentation, enabled the model to achieve high precision and recall, making it a reliable tool for diagnostic use. The automated system is poised to reduce the workload on radiologists and facilitate quicker diagnosis, potentially improving patient outcomes through timely intervention.
 
-# 
-🟣 Contributors | A. Rahimi, M. Heidari, A. Ghorbani, S. Sohrabian, K. Fazel, M. Farzam
-
 
 ***Conclusion:***
-By integrating machine learning with image processing, this project has created a valuable tool for automating the detection of brain tumors. The model, supported by a diverse dataset and thorough validation, demonstrates strong potential for use in real-world medical applications. Its ability to provide rapid and accurate analysis of MRI images can improve the management of brain tumor cases, helping healthcare providers deliver better patient care.                  
+By integrating machine learning with image processing, this project has created a valuable tool for automating the detection of brain tumors. The model, supported by a diverse dataset and thorough validation, demonstrates strong potential for use in real-world medical applications. Its ability to provide rapid and accurate analysis of MRI images can improve the management of brain tumor cases, helping healthcare providers deliver better patient care.                 
+
+
+
+# 
+***🟣 Contributors | A. Rahimi, M. Heidari, A. Ghorbani, S. Sohrabian, K. Fazel, M. Farzam***
      
