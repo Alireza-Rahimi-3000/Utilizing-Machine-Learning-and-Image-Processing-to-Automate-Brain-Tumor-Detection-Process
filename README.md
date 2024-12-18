@@ -5,7 +5,7 @@ This project aims to automate brain tumor detection using advanced machine learn
   
 ***Background and Motivation:*** 
 Brain tumors pose significant health risks, and their detection has traditionally relied on manual examination of MRI scans by radiologists. This method, while precise, can be labor-intensive and prone to human error. Machine learning, particularly Convolutional Neural Networks (CNNs), offers an efficient alternative by automating the analysis of complex MRI images, leading to faster and more reliable diagnoses. This project leverages these capabilities to create an automated tool that identifies brain tumors and reduces the diagnostic burden on medical professionals.
-
+ 
 ***Datasets:*** 
 The project utilized two primary datasets, enhanced through augmentation to ensure robust training and model generalization:
 
