@@ -8,7 +8,7 @@ Brain tumors pose significant health risks, and their detection has traditionall
  
 ***Datasets:*** 
 The project utilized two primary datasets, enhanced through augmentation to ensure robust training and model generalization:
-
+ 
 ***Dataset 1:***
 ***Original:*** 253 total images (155 positive for tumors, 98 negative)
 ***After Augmentation:*** 2064 total images (1085 positive, 979 negative)
