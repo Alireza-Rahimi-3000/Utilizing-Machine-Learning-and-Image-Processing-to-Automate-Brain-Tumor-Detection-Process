@@ -1,4 +1,4 @@
-# Utilizing Machine Learning and Image Processing to automate brain tumor detection process     
+# Utilizing Machine Learning and Image Processing to automate brain tumor detection process      
                               
 ***Project Overview:***                                      
 This project aims to automate brain tumor detection using advanced machine learning and image processing techniques. Given the critical importance of early detection for effective treatment, the project focuses on developing a system that quickly and accurately analyzes MRI images to identify brain tumors, assisting healthcare professionals in making timely and informed decisions.  
